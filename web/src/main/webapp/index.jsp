@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-    c. Updated to demo deploy to war plugin.
+    Super Simple Example Web Page
   </p>
 </body>
 </html>
