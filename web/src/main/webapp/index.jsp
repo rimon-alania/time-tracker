@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    c. Updated to demo deploy to war plugin.
   </p>
 </body>
 </html>
